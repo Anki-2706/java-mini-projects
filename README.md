@@ -11,9 +11,6 @@ A collection of beginner to intermediate **Java console-based programs** created
 - Supports deposit, withdrawal, and balance enquiry
 - Demonstrates method-based state management and input validation
 
-### 🔢 Number Pyramid
-- Prints a centered number pyramid using nested loops
-- Demonstrates pattern printing and loop control
 
 ### ⚪ Circle Calculations
 - Calculates circumference, area, and volume of a circle
