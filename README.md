@@ -1,4 +1,4 @@
-Java Mini Projects
+#Java Mini Projects
 
 A collection of beginner to intermediate Java console-based mini projects created to practice and strengthen core Java concepts through hands-on implementation.
 
